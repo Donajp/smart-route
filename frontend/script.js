@@ -26,7 +26,7 @@ function atualizarContadorBloqueadas() {
 const nomesNos = {
     "A": "A - Praça Central", "B": "B - Mercado", "C": "C - Estação",
     "D": "D - Hospital", "E": "E - Escola", "F": "F - Casa", "G": "G - Pet Shop",
-    "H": "H - Universidade", "I": "I - Shopping", "J": "J - Banco", "K": "K - Parque"
+    "H": "H - Universidade", "I": "I - Shopping", "J": "J - Banco", "K": "K - Parque", "L": "L - Museu"
 };
 
 function mostrarCaminho() {
